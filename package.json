@@ -1,0 +1,17 @@
+{
+    "name": "profilegen",
+    "version": "1.0.0",
+    "description": "Four types of employees need profiles",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index",
+        "test": "jest"
+    },
+    "author": "Joshua Nelson",
+    "dependencies": {
+        "inquirer": "8.2.4"
+    },
+    "devDependencies": {
+        "jest": "29.3.1"
+    }
+}
